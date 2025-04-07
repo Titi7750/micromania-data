@@ -1,0 +1,303 @@
+ID Magasin;Nom Magasin;Adresse;Ville;Code Postal;Chiffre d'Affaires Annuel (€);Nombre de Transactions;Date d'Ouverture;Surface (m²);Nombre d'Employés
+1;Micromania Philippe;74, rue Pinto;Thomas;08924;4841304.63;67382;2024-08-04;224;12
+2;Micromania Imbert-sur-Bertin;90, boulevard Lucie Moreno;Mathieu-sur-Peltier;08383;1374549.87;15964;2021-08-15;422;11
+3;Micromania Hoareau;40, rue de Delmas;Lesage;50089;3946954.08;89573;2022-04-05;326;16
+4;Micromania Navarro;rue Gilbert;Guyot;81067;3468950.45;73340;2023-07-13;246;10
+5;Micromania Alves;47, boulevard de Foucher;Roussel-les-Bains;28299;3141098.11;76817;2022-03-01;205;10
+6;Micromania Torres-sur-Mer;31, chemin Margaux Fernandez;LeblancBourg;07939;3925688.18;75159;2019-01-24;444;17
+7;Micromania Lemaire-les-Bains;80, rue Lorraine Nguyen;Delaunay;54204;1879918.31;65114;2018-12-15;413;17
+8;Micromania Garnier;4, rue Auger;Lévy;95784;1879353.89;64772;2020-01-27;294;16
+9;Micromania Joubert;14, rue Honoré Loiseau;Guichard;44148;2356582.95;42918;2016-06-03;377;18
+10;Micromania AllardBourg;56, avenue Guillaume Étienne;Dos Santos;51343;742239.67;76862;2019-10-25;232;5
+11;Micromania Gautier-sur-Mer;21, avenue de Schneider;Labbé;79364;1054566.05;85462;2020-04-03;269;20
+12;Micromania Saint Jeanninedan;23, rue de Bazin;Sainte Adèle;35437;2824271.11;20058;2016-04-06;191;19
+13;Micromania Muller;avenue William Dias;Lemaître-sur-Andre;41830;4408323.97;96638;2015-09-23;428;20
+14;Micromania Labbénec;70, avenue Denis Joubert;Neveu;58272;2992313.39;74989;2021-08-06;169;11
+15;Micromania Rivière;rue Neveu;Joseph-sur-Pasquier;41216;3695199.26;53154;2018-10-01;368;12
+16;Micromania Bertrand;5, boulevard de Brunel;Leleunec;43157;4138405.81;83773;2016-02-08;142;19
+17;Micromania Da Costa;4, boulevard Diane Carlier;Mendès;14318;4087134.8;98541;2024-07-01;408;5
+18;Micromania Marchand;rue de Alves;BaudryVille;98073;2951776.63;42481;2018-11-27;334;8
+19;Micromania Sainte ColetteBourg;8, rue de Dupont;Saint Timothée-les-Bains;65167;2838823.48;68080;2021-11-21;459;13
+20;Micromania Gaudin-les-Bains;40, rue Jérôme Legrand;Dupontnec;48971;1146172.62;56014;2022-02-05;378;5
+21;Micromania Raymond;2, rue de Ramos;Raymondnec;15815;4260095.52;65480;2020-09-09;233;14
+22;Micromania Valette;34, rue de Bodin;Gauthier-sur-Bazin;38799;4077916.7;65977;2016-03-11;462;11
+23;Micromania Foucher;35, rue Benoit;Guérin;85902;2296254.89;76275;2018-05-09;209;6
+24;Micromania Lesage-sur-Marques;18, boulevard de Duval;Lebon-sur-Mer;98072;3474115.58;46167;2017-08-21;225;15
+25;Micromania Jacquot-sur-Mer;50, rue de Noël;Sainte Lucy-sur-Mer;16930;3731407.19;21558;2020-04-03;155;6
+26;Micromania Gauthier;rue Lefebvre;Marin-sur-Grenier;43719;1076461.85;21928;2019-01-20;389;19
+27;Micromania Fleury;34, rue Alix Leleu;Godard;86119;1143171.24;96184;2019-01-09;459;17
+28;Micromania Poirier-les-Bains;701, avenue de Hoareau;Cohen;39012;2165781.62;60133;2016-12-12;384;19
+29;Micromania FabreBourg;rue Jacques Da Silva;Sainte Lorraine-les-Bains;98451;1595214.11;23021;2018-10-18;108;19
+30;Micromania Saint Adrienne;79, rue Suzanne Rolland;Macenec;95548;1553670.1;92968;2015-06-23;190;12
+31;Micromania Bonneaunec;62, avenue Thibaut Dos Santos;Boyer;76414;907969.27;98244;2018-04-07;307;12
+32;Micromania Lemaire-sur-Mer;97, avenue Dupré;Morin;48371;4756209.26;85118;2019-07-30;154;20
+33;Micromania Sainte Madeleine;rue Sanchez;Thibaultdan;93360;1080229.71;68667;2016-01-17;302;20
+34;Micromania CordierVille;703, boulevard Nathalie Lévêque;Ruiz;29114;2165953.17;67695;2019-01-12;443;5
+35;Micromania Normand-sur-Bodin;132, boulevard Bourdon;Bertin;19050;633519.32;87519;2025-02-25;272;15
+36;Micromania Buisson;86, rue de Letellier;Reynaudboeuf;02941;913643.25;84106;2018-01-27;436;20
+37;Micromania Duval;133, boulevard Christelle Pages;Leconte-sur-Mer;43109;2169816.42;34598;2017-04-20;261;8
+38;Micromania Pereznec;94, rue de Dupuis;Bazin;73196;543355.37;35343;2024-02-09;474;7
+39;Micromania Da Costa;98, rue de Besson;Paul-sur-Mer;40672;4396870.93;41427;2022-02-03;316;5
+40;Micromania Sainte Laure;rue Suzanne Blanchet;Saint Stéphanie;64307;1580973.1;46071;2018-10-28;377;18
+41;Micromania MonnierVille;1, rue de Mary;Bernard-sur-Marques;82211;3769706.61;81924;2019-03-15;294;12
+42;Micromania Sainte Margaud-sur-Mer;85, avenue de Devaux;Pires;97602;2326326.49;48843;2015-08-03;239;9
+43;Micromania Huet-les-Bains;10, avenue de Charrier;Perrierdan;95394;1116046.06;78749;2024-11-14;424;17
+44;Micromania Lamy;161, chemin Chantal Breton;Brunet;24393;3395583.81;99284;2025-03-10;388;9
+45;Micromania Grégoiredan;45, boulevard Pierre;MaheBourg;04384;3945971.38;56412;2015-09-23;337;16
+46;Micromania Klein;63, boulevard Adèle Faure;Hamel;86089;4860390.57;16875;2019-11-25;338;9
+47;Micromania Evrard-sur-Mer;609, boulevard Lorraine Legros;Godard;00478;4285605.41;35357;2016-02-03;484;7
+48;Micromania Sainte Océane;95, avenue Masson;Saint Paulnec;15135;4649336.2;83935;2022-02-12;428;14
+49;Micromania Faivre;66, rue de Gilles;Schneider;98815;3598372.29;98192;2016-12-17;480;9
+50;Micromania Sainte Bertrand;2, rue de Bazin;Vaillant-la-Forêt;53322;643633.53;22974;2019-12-01;410;17
+51;Micromania RouxVille;94, chemin de Rodrigues;Rodrigues;15595;2980249.73;76780;2020-01-02;166;7
+52;Micromania OllivierVille;boulevard Robert Lacombe;Peronboeuf;42090;1854973.26;42456;2020-04-24;248;6
+53;Micromania Rousset;237, rue de Perrier;Delahaye;50800;3810290.87;93343;2021-12-04;432;11
+54;Micromania Delmasboeuf;88, chemin Victor Martinez;Benoitnec;85728;986720.88;40896;2018-12-27;191;13
+55;Micromania Wagner;10, rue Auger;Saint Anastasie-la-Forêt;63585;4174165.48;47302;2022-06-19;466;20
+56;Micromania Saint Christinenec;45, chemin Corinne Camus;Leblanc;19631;1921926.83;32901;2023-12-04;190;10
+57;Micromania Lamy;30, rue Pelletier;Lagarde-sur-Marin;22103;2619209.18;46854;2021-05-15;133;19
+58;Micromania Barthelemy;5, avenue Anastasie Renault;Arnaud;08361;1903584.7;73142;2019-10-03;222;20
+59;Micromania Guyon;rue Michel Sanchez;Maillet-sur-Girard;64131;4720778.17;78381;2016-11-18;499;16
+60;Micromania Chauvet;39, avenue Émilie Collet;Chauvindan;23093;2141833.26;33525;2020-08-07;101;10
+61;Micromania Sainte MargotBourg;600, rue Girard;Vallet-la-Forêt;21091;3099520.43;94583;2022-04-08;115;10
+62;Micromania ChartierBourg;rue Dorothée Payet;Philippe;90435;2493886.43;75409;2015-10-14;426;13
+63;Micromania Legendrenec;186, rue de Robin;Noël-la-Forêt;90647;2999504.53;67918;2018-07-27;405;19
+64;Micromania Rodriguez-sur-Noël;67, rue de Prévost;MarchalVille;09544;1443269.38;61142;2019-02-25;384;10
+65;Micromania Fernandes;boulevard Mendès;HoareauVille;32630;4076782.48;61038;2019-05-31;237;16
+66;Micromania Saint Alex;620, rue de Laporte;Ollivier-les-Bains;66805;4762150.65;28716;2019-09-29;293;17
+67;Micromania Traore;576, chemin Vasseur;Sainte Stéphanie;55838;1740501.03;75174;2015-05-16;406;16
+68;Micromania Pages-sur-Collet;63, rue de Jacquot;Rémyboeuf;56280;1821045.48;72819;2021-03-14;236;5
+69;Micromania BourgeoisBourg;71, boulevard Monique Jacques;Saint Philippine;90768;2752213.87;99794;2024-09-06;241;13
+70;Micromania Lombard;483, boulevard de Chevalier;Besson-sur-Mer;15681;3516691.23;72975;2022-04-24;118;7
+71;Micromania Saint ÉricBourg;boulevard de Mendès;Guibert;95043;4534780.66;93541;2022-03-11;142;12
+72;Micromania Descamps;94, avenue Paul;Valette;72992;3775871.64;22400;2025-03-03;174;18
+73;Micromania Saint Michellenec;53, rue Michaud;Macenec;71313;3465351.75;39730;2018-06-28;490;6
+74;Micromania Masse;6, boulevard de Hernandez;Peltier;78254;1226606.85;26697;2020-02-03;493;17
+75;Micromania Léger-la-Forêt;38, rue Roger Daniel;Thomas-sur-Garnier;56877;1001238.38;44850;2015-09-12;321;9
+76;Micromania Bodindan;4, chemin Anouk Bigot;Ledoux-les-Bains;34173;3783689.92;74924;2022-01-11;217;20
+77;Micromania GermainVille;917, chemin de Royer;Garcia;31689;2454315.24;47885;2023-02-16;264;20
+78;Micromania Boulay;717, rue Brigitte Lacroix;DupuyVille;54048;2938966.45;57538;2018-09-10;301;14
+79;Micromania Blancdan;541, chemin Adélaïde Guillet;Saint Luce-les-Bains;20011;2695569.33;21590;2023-04-06;405;7
+80;Micromania Schneidernec;rue Poulain;Dijouxnec;14757;4935346.14;55760;2016-07-20;399;18
+81;Micromania DelattreBourg;49, rue Olivie Delmas;Saint Alix-sur-Mer;72938;3403383.99;70462;2024-12-27;382;12
+82;Micromania Neveu;72, chemin Lopes;Denis;75564;655434.38;39204;2017-06-11;210;7
+83;Micromania Lecoqnec;rue de Navarro;Roussel;88671;1587890.71;46666;2016-07-01;144;10
+84;Micromania Martineau;230, rue Alice Léger;Breton-sur-Descamps;62295;4136951.7;57843;2017-09-13;402;12
+85;Micromania Colas;478, rue Dupont;Saint Gérardboeuf;33714;2736244.57;24636;2024-02-08;234;8
+86;Micromania Carlier-sur-Riou;73, rue Augustin Ferrand;Lacombe;52876;2718677.11;35734;2021-02-19;264;12
+87;Micromania Saint Émile;382, avenue de Weber;Lesage-sur-Grenier;85026;2667941.84;90680;2023-07-07;123;14
+88;Micromania Saint Auroredan;66, rue Baudry;Lebrun;89792;968257.84;68339;2018-01-14;284;9
+89;Micromania Barthelemy-sur-Mer;56, boulevard Guérin;Guilbert-sur-Mer;23700;560090.06;84194;2018-08-01;179;10
+90;Micromania Sainte AiméeBourg;53, boulevard Lecomte;DuboisBourg;06225;4738671.11;66479;2022-02-15;288;10
+91;Micromania Camusdan;boulevard Marin;MasseVille;05616;1291666.34;36339;2019-02-13;150;11
+92;Micromania Alves;25, rue Garcia;Marchal;48069;4332278.33;85182;2018-07-28;334;17
+93;Micromania Sainte Mathilde;rue de Colin;Guillon;57995;2420464.78;27027;2016-07-07;355;6
+94;Micromania Pascalboeuf;rue Potier;Sainte Claudeboeuf;81298;3437529.51;98246;2016-06-26;223;12
+95;Micromania Gillet;80, rue Stéphane Carre;Lemaire;69838;3164478.67;76911;2018-02-27;437;7
+96;Micromania Seguin-les-Bains;40, avenue Jourdan;Pinto;79523;2171541.55;28760;2019-09-03;352;17
+97;Micromania Diaznec;946, chemin de Robin;MarionVille;37889;763836.06;31399;2018-05-19;189;6
+98;Micromania Sainte Océane;avenue René Becker;Blanc;57465;1698660.25;78850;2022-02-26;382;9
+99;Micromania Berger-sur-Gaillard;764, boulevard de Mathieu;Sainte Véronique-la-Forêt;49508;3404532.92;10316;2021-06-18;356;20
+100;Micromania Fournier-les-Bains;613, avenue Laroche;Julien;68352;2255712.14;54424;2023-06-24;415;9
+101;Micromania Lelièvredan;951, rue Dominique Chartier;Lacombe-sur-Dumont;87416;1387779.57;93988;2024-07-19;304;7
+102;Micromania Sauvage;boulevard de Mace;Sainte RogerVille;59231;3584097.08;83760;2022-07-13;270;6
+103;Micromania Saint Augustenec;99, rue de Gonzalez;Bonneaudan;21760;505356.94;27097;2019-08-19;159;20
+104;Micromania Sainte Audrey;419, rue Margot Picard;Vincent;13393;1963048.38;95181;2015-10-13;347;9
+105;Micromania Dijoux;67, rue de Hernandez;Delorme;94522;2930709.15;44080;2024-12-31;308;7
+106;Micromania Normand;chemin de Gomes;Hervé-sur-Mer;39003;4670367.96;37702;2020-06-05;453;10
+107;Micromania Saint Marc;33, boulevard Valérie Bigot;Langlois;24786;1622703.61;26560;2016-08-11;311;16
+108;Micromania Denis-sur-Mer;947, rue de Mary;Martins;81691;2476001.23;81794;2023-08-06;471;9
+109;Micromania Huet;683, rue Lucy Dumas;Mendèsnec;12630;4622288.32;66097;2017-01-29;103;13
+110;Micromania Beckerboeuf;2, rue Ledoux;Pelletier;14970;1495408.8;74610;2019-01-25;192;20
+111;Micromania CaronBourg;rue Boucher;Schneider-la-Forêt;59118;1536268.55;62685;2018-12-17;461;10
+112;Micromania Léger;765, rue Céline Mahe;Blot;92507;2104822.81;56153;2018-11-28;448;20
+113;Micromania Laurent-sur-Delannoy;56, rue De Oliveira;Jourdannec;71249;2707186.98;52902;2018-07-01;249;10
+114;Micromania Boulay;5, avenue Thomas Jacques;Coulon;21503;4867156.1;82297;2023-10-17;215;18
+115;Micromania Guillaumedan;99, rue Christelle Hardy;Hoareau-sur-Rousset;86811;1019872.13;89745;2023-09-16;477;5
+116;Micromania Muller-sur-Mer;chemin Allain;Gauthier;84058;4129009.16;16635;2018-10-04;171;12
+117;Micromania De SousaVille;77, rue Leconte;Raynaud;64715;1638230.08;65309;2017-12-29;226;20
+118;Micromania Bonnin-sur-Faure;54, rue Lucie Ferrand;Courtois-les-Bains;34093;1239034.94;62172;2024-10-24;232;17
+119;Micromania Ollivier;7, rue de Peltier;Martineau-sur-Brun;68734;4956922.23;55575;2018-12-26;214;5
+120;Micromania Pineau-sur-Gautier;37, avenue Leleu;Germain-les-Bains;92794;1858449.53;88074;2022-06-04;363;15
+121;Micromania Barthelemy;56, boulevard Odette Martel;Perrier-les-Bains;44479;3817259.41;46495;2023-04-28;342;17
+122;Micromania Sainte Nathalie;789, boulevard Michaud;Hoareau;08580;1289695.75;27121;2019-01-29;253;9
+123;Micromania Dijoux;2, rue Brunet;Godard-les-Bains;17161;3108361.06;27201;2016-10-28;288;16
+124;Micromania Pelletierdan;boulevard Menard;Duhamel;22410;3705598.04;97891;2024-10-29;442;7
+125;Micromania Mauryboeuf;33, avenue de Ledoux;Josephnec;39482;4915272.79;11106;2019-03-25;468;15
+126;Micromania Saint Noël;661, boulevard Gabriel Sanchez;Carlier;07085;4982099.96;34785;2024-07-07;237;9
+127;Micromania Renard-la-Forêt;73, boulevard Laure Morin;Weiss-sur-Brunet;07019;2446134.15;18554;2016-07-05;434;19
+128;Micromania Lemonnier;187, rue Mahe;Raymonddan;37720;2999993.86;19625;2022-03-30;397;18
+129;Micromania Sainte RogerVille;714, rue Christelle Blin;Seguin;40552;4840666.99;65608;2025-01-06;389;12
+130;Micromania Giraud;2, boulevard de Baudry;Foucher-les-Bains;21570;907067.27;73042;2023-04-09;440;5
+131;Micromania Pinto-sur-Lévy;38, avenue Bouchet;Bertrand;45743;2152634.56;34291;2018-09-19;335;15
+132;Micromania Saint Odette;42, chemin de Dupuis;Saint BenoîtBourg;34070;743176.41;26664;2020-03-09;174;7
+133;Micromania BoulangerVille;1, boulevard Mahe;Dias;90784;2993983.82;19771;2022-11-05;137;11
+134;Micromania Gérard;47, boulevard de Laroche;Lacombe-les-Bains;16218;1948635.71;68091;2021-01-18;114;19
+135;Micromania Renaud-sur-Mer;41, avenue Pascal;Sainte Margot-les-Bains;74995;2290136.41;37541;2016-03-24;334;15
+136;Micromania Marion-sur-Boulanger;37, rue Anaïs Guilbert;Dos Santos;93636;4660787.05;42043;2017-05-20;467;17
+137;Micromania Gonzalez;24, rue de Rodriguez;Jacquesdan;83895;3036091.4;70245;2019-12-17;340;5
+138;Micromania Boutin;57, avenue Renard;Coste;87562;1424689.82;82290;2015-06-10;484;11
+139;Micromania De Sousa;66, chemin de Robin;Sainte Michel-la-Forêt;67233;4213247.58;71247;2018-01-31;431;17
+140;Micromania MoreauVille;64, rue de Gilles;Verdiernec;75981;1052763.81;60714;2015-05-02;158;14
+141;Micromania Barbier;88, chemin Andrée Navarro;Torres;16977;2486193.54;82601;2019-04-27;158;17
+142;Micromania Caron;79, avenue de Rousseau;Clément;81796;1602953.18;83524;2016-05-19;414;11
+143;Micromania AndreVille;98, rue Odette Fouquet;Marion-sur-Mer;85105;3964305.76;83331;2018-08-13;262;19
+144;Micromania Saint Inès-la-Forêt;94, avenue Virginie Mace;BoyerBourg;39507;2003473.83;94280;2021-07-06;244;13
+145;Micromania Sainte Diane-la-Forêt;rue Léon Lebrun;Techer;35803;1752445.97;62886;2022-05-11;323;16
+146;Micromania Gomez;40, avenue de Delahaye;Dupré;10172;4323383.77;95340;2017-04-07;387;15
+147;Micromania Langlois;avenue De Oliveira;Legendre-sur-Mer;50146;1709319.29;89706;2023-07-26;482;9
+148;Micromania Saint ÉlisabethBourg;boulevard Théodore Guérin;AllainVille;40855;519683.61;95937;2023-10-20;464;17
+149;Micromania Laroche-sur-Bousquet;avenue de Rossi;Richard-la-Forêt;69437;4811722.94;88747;2019-04-03;500;17
+150;Micromania Maury;65, rue Ramos;Hernandez;24789;1120236.08;82836;2018-01-26;408;12
+151;Micromania Gros;60, avenue Morin;Saint Charlotte;07407;2964634.03;54630;2022-04-27;109;20
+152;Micromania Guillou-les-Bains;43, rue Hamel;Laine;77709;4422248.62;11545;2019-06-27;255;7
+153;Micromania Richardboeuf;80, rue de Giraud;Hernandez;49953;2126697.45;38155;2021-02-01;282;17
+154;Micromania Gay;75, avenue Chartier;Saint Nathalie;90293;3570852.81;98663;2016-01-04;269;16
+155;Micromania Saint Philippe;4, boulevard Guy Roux;Laroche;44086;4449627.31;37885;2021-03-03;332;20
+156;Micromania Dupont-sur-Mer;100, chemin de Salmon;Boutin-les-Bains;36197;3412617.89;93704;2024-01-16;123;13
+157;Micromania Aubry;rue Besnard;Sanchez;30213;2680405.27;23455;2020-04-03;143;11
+158;Micromania Gilles-sur-Mer;9, rue de Chrétien;Payetnec;93067;2908878.09;37998;2021-01-12;253;6
+159;Micromania Laine-sur-Mer;8, boulevard Laroche;Ledoux-sur-Mer;85201;3326652.56;72262;2019-03-27;263;18
+160;Micromania Massenec;7, boulevard Letellier;Sainte Thierry;32475;1969421.19;13442;2021-03-11;159;9
+161;Micromania Barbe;boulevard de Thierry;Sainte Guillaume;67701;881192.1;88590;2023-04-05;235;13
+162;Micromania RamosVille;chemin de Adam;Joseph-sur-Carre;23791;2547597.1;21254;2024-03-11;259;12
+163;Micromania Huet;17, avenue de Masse;Lelièvre;27359;1297826.73;55874;2020-04-06;152;12
+164;Micromania Paulboeuf;49, boulevard Perret;Alexandre;11122;4014137.6;78029;2022-11-19;378;11
+165;Micromania Lambert-sur-Mer;2, rue Hardy;Sainte CharlotteVille;74465;2422485.32;38555;2019-10-25;103;12
+166;Micromania Roux-sur-Mer;52, chemin Regnier;Daniel;13628;1500819.03;66106;2023-08-27;189;10
+167;Micromania Gonzalez;42, avenue Michèle Dijoux;Lucas;19556;4429360.66;65781;2017-10-21;322;11
+168;Micromania Saint Anaïs;9, boulevard Mace;Bodin;14761;755163.27;77648;2015-08-25;217;9
+169;Micromania Nguyen-la-Forêt;94, rue Corinne Pasquier;Saint Christine-la-Forêt;37947;4029439.58;15494;2024-11-05;165;19
+170;Micromania Le Gall;rue de Bonnin;ChartierVille;56753;1708473.26;40117;2019-09-04;196;19
+171;Micromania Saint Christiane;76, rue Gérard Gauthier;Briand;23384;3900691.9;55473;2015-07-06;318;20
+172;Micromania Chevallier-sur-Meunier;3, chemin Hernandez;Jacob;82845;4719784.7;96650;2017-07-20;257;6
+173;Micromania Guyot-la-Forêt;400, boulevard de Besnard;Normand;62000;4309417.74;33334;2019-01-05;339;20
+174;Micromania Perret-la-Forêt;29, avenue Gallet;Maillard;84252;4538004.82;90627;2020-01-01;359;18
+175;Micromania Legrand;35, chemin Cécile Evrard;Gilletboeuf;03778;2476420.57;17017;2021-11-03;455;13
+176;Micromania Bouvet-les-Bains;15, boulevard de Blanchet;Berthelot;04976;4649076.83;72530;2018-02-23;196;5
+177;Micromania Rolland;71, rue Lévêque;Chevalliernec;50505;655897.86;10966;2022-01-06;288;10
+178;Micromania Gay;75, rue de Pires;Fourniernec;54073;4915122.56;70353;2019-04-11;413;16
+179;Micromania Lamyboeuf;570, rue de Vaillant;Mendès;23488;4248537.5;34935;2021-08-09;481;18
+180;Micromania Gaudinboeuf;33, rue de Clément;Sainte Georges;67636;3884725.72;50385;2017-05-28;101;20
+181;Micromania Leducboeuf;4, boulevard Virginie Briand;Lelièvre;00226;4698614.64;42363;2021-10-16;175;9
+182;Micromania Leblanc;85, boulevard de Pottier;Saint Lucy-la-Forêt;27872;919755.89;26411;2023-07-01;321;20
+183;Micromania Schmitt;44, rue de Duval;Lopes;52572;583492.44;53045;2024-04-10;139;16
+184;Micromania Perrier;613, boulevard Auguste Weiss;Sainte Céline;74430;2852681.98;96463;2020-02-04;289;15
+185;Micromania Rey-sur-Roy;65, avenue Colas;Lenoir;73716;1016968.81;33753;2024-02-29;377;6
+186;Micromania De Oliveira-sur-Samson;rue Bodin;Royer;41584;4940377.7;54523;2019-12-08;108;16
+187;Micromania Dupuis;9, avenue Georges Diallo;Didier-les-Bains;61252;1317790.7;22175;2017-11-07;398;18
+188;Micromania Saint MarcelBourg;12, rue Payet;Munoz-sur-Rodrigues;93083;4199536.25;25741;2023-03-31;215;14
+189;Micromania Millet;54, boulevard Grondin;Becker;54647;1719411.89;18065;2024-12-22;347;11
+190;Micromania Carlier-sur-Mer;166, rue Charles Colas;Gaudin-sur-Masson;74318;2858361.79;81323;2018-09-15;120;5
+191;Micromania Poirier;rue de Evrard;Wagner;51151;3567380.94;92610;2021-03-06;496;8
+192;Micromania Saint Andréboeuf;701, boulevard Stéphanie Chauvet;Dialloboeuf;34730;3899170.42;81999;2024-04-28;286;9
+193;Micromania Georges;7, avenue de Bigot;Saint Emmanuel;01220;1046801.64;42857;2019-08-18;368;6
+194;Micromania Garnier;rue Ribeiro;Bonnin;94848;2033838.53;70996;2018-09-11;245;20
+195;Micromania Pereira-sur-Besson;56, chemin Boulay;GayVille;02016;1537721.18;65003;2023-09-02;446;14
+196;Micromania Lopez-sur-Grégoire;84, chemin Carpentier;Techerboeuf;18229;2722472.6;18414;2016-10-25;403;9
+197;Micromania Reynaud-la-Forêt;3, rue de Bousquet;Marty-la-Forêt;92219;1147246.27;81122;2018-07-09;430;15
+198;Micromania Sainte Aliceboeuf;7, avenue de Alexandre;Duvalnec;26562;3860431.43;45892;2018-12-28;411;11
+199;Micromania Saint Catherine;87, chemin Timothée Gay;Garcia-sur-Durand;80201;1875881.11;91556;2017-05-30;411;6
+200;Micromania Jacquotnec;75, avenue de Lebrun;Guilletdan;94844;4877122.45;23630;2016-09-22;121;19
+201;Micromania Bouchet;boulevard Grégoire Vallet;Mercier;03285;2905607.58;67422;2024-03-21;160;14
+202;Micromania Perrier;538, rue de Payet;Leblanc;43492;1851384.31;55780;2020-07-13;313;7
+203;Micromania Sainte OlivierBourg;rue Pages;Guyon;10076;4142938.29;15974;2022-12-20;327;10
+204;Micromania Turpin;avenue Anouk Lebreton;Courtois;61989;1111116.66;82542;2017-08-10;308;9
+205;Micromania Ramos;992, rue de Roger;Rocher;80493;4379996.33;74548;2022-07-06;160;16
+206;Micromania DiazBourg;51, chemin Christine Philippe;Guibert;86097;1345342.18;23800;2018-02-04;172;9
+207;Micromania Bonnin;chemin Peron;Saint Élise;64687;711655.69;79513;2024-09-29;424;9
+208;Micromania Marin;716, avenue Céline Diallo;Bernier-sur-Baron;86415;3279515.64;57600;2024-08-21;237;18
+209;Micromania Mercier;19, boulevard Xavier Becker;Delaunay-sur-Henry;59279;666535.54;85054;2023-08-26;209;20
+210;Micromania Sanchez-sur-Mer;boulevard Poirier;Saint Xavier;52741;4117451.46;75672;2018-09-06;445;20
+211;Micromania Paul;5, avenue Océane Petit;Sainte Constance;40962;2122138.79;33957;2024-12-29;213;18
+212;Micromania Vallet-sur-Mer;32, boulevard Andre;Auger;37561;838002.26;76080;2016-09-21;322;14
+213;Micromania LebonBourg;70, avenue Diane De Sousa;Foucher-sur-Vidal;54640;3827272.36;89846;2018-08-28;440;10
+214;Micromania Barbier;433, boulevard Marine Lucas;Mace;68343;1735014.93;41667;2018-12-13;272;7
+215;Micromania Saint Lauredan;7, boulevard de Texier;Pottier;62318;2449194.74;22989;2016-04-29;471;14
+216;Micromania Sainte Denis;avenue Ferreira;Hebert;22514;3647641.37;93967;2023-09-20;213;20
+217;Micromania Guillondan;3, rue Faivre;Michel;14975;3439568.03;55367;2024-03-21;235;5
+218;Micromania Allain;62, rue Martine Rocher;Saint Marienec;90879;3862693.35;67190;2016-01-19;421;10
+219;Micromania Marie;96, avenue de Maillard;Briandnec;77821;3490454.46;81373;2017-07-28;194;18
+220;Micromania Malletdan;492, chemin Hoareau;Boulay-sur-Joseph;37893;935031.21;95311;2017-12-02;168;12
+221;Micromania Pierre;83, boulevard Arthur Chauveau;Maillard;39947;1779883.02;11173;2021-07-16;247;19
+222;Micromania Guérin;avenue Lambert;Étienne;64947;4177886.36;54196;2015-08-02;219;12
+223;Micromania Schmitt;94, rue de Bertrand;François;46084;2176654.19;53550;2023-07-28;188;16
+224;Micromania BergerBourg;967, rue de Lambert;Perrot;61341;1200293.89;54836;2023-01-22;238;19
+225;Micromania Le Roux-sur-Mer;13, boulevard Bailly;Rodriguez;22514;783941.86;12898;2022-07-17;285;11
+226;Micromania Lagarde;389, boulevard de Vaillant;Guichard-la-Forêt;93207;2000088.73;34454;2020-04-06;428;18
+227;Micromania Saint Luce;866, boulevard Martins;Peltier;35092;3662506.86;35927;2018-12-22;430;19
+228;Micromania Dupuydan;71, boulevard de Godard;Pelletier-sur-Mer;60686;1404877.47;75679;2022-04-01;419;7
+229;Micromania Sauvage;93, chemin Imbert;Mercier;08901;3416881.82;41729;2019-09-14;309;10
+230;Micromania Samson;70, chemin Denise Guyot;MartinVille;39999;1029133.81;32521;2023-10-25;314;7
+231;Micromania Sainte Lucas;14, chemin Hubert;Pires;53132;4263870.11;15931;2020-03-20;292;5
+232;Micromania Delorme;19, boulevard Pauline Foucher;Vincent-sur-Brunel;51724;1650466.64;13707;2024-05-11;495;20
+233;Micromania Renaultnec;29, boulevard Guérin;DelormeBourg;16047;1801910.6;30523;2018-10-26;262;9
+234;Micromania PoirierVille;76, boulevard Perrot;LamyVille;68702;1829335.52;18802;2020-04-01;211;10
+235;Micromania Carlier-sur-Mer;10, boulevard Meyer;Julien;50057;1084933.82;16761;2017-04-08;471;17
+236;Micromania Gomes;19, chemin Maurice;Sainte Aimé-la-Forêt;98656;2614519.81;44873;2021-01-12;182;19
+237;Micromania RibeiroBourg;2, chemin Bernard Prévost;Martin;98772;1462268.82;95084;2015-12-10;104;7
+238;Micromania Samson;7, boulevard Caroline Klein;Monnier-sur-Gonzalez;23286;3192469.3;78751;2020-11-09;474;17
+239;Micromania Sainte Sabinedan;avenue Margot Gérard;LaineBourg;86885;2735343.49;62760;2017-03-31;308;16
+240;Micromania Mallet-sur-Charles;36, chemin Arthur Dijoux;Sainte Alexandre;36282;3696019.89;13659;2020-04-26;255;7
+241;Micromania Saint Benjamin;avenue Leblanc;Jacques;82530;2496205.65;51967;2025-01-09;100;13
+242;Micromania Millet;17, boulevard de Imbert;Jean;20921;1733065.59;59363;2025-02-17;330;14
+243;Micromania Lombard;253, rue Guillou;HernandezBourg;67643;3819682.01;33368;2019-09-18;305;12
+244;Micromania Lecomte;rue Payet;Sainte Adrienne;97453;4181078.03;75762;2025-01-06;346;7
+245;Micromania Saint Brigitte;68, boulevard Éric Millet;Seguin-sur-Blanchard;85288;1390779.63;39549;2019-09-01;199;5
+246;Micromania Carlier;134, avenue Honoré Rousseau;Sainte Hortensenec;83098;4835595.69;36409;2022-05-07;365;5
+247;Micromania CharrierVille;657, boulevard de Bouchet;Henry-sur-Mer;54018;1011432.49;23116;2020-01-12;340;20
+248;Micromania Saint Patrick;chemin René Foucher;Jean;08233;3362950.6;43785;2022-12-04;169;20
+249;Micromania Saint Patrick;5, rue de Evrard;Sainte Julie;34366;2436068.35;23405;2023-11-22;139;13
+250;Micromania Mailletdan;23, chemin de Normand;GiraudVille;38081;4245764.27;27698;2021-06-24;248;12
+251;Micromania Gilles;52, avenue Ruiz;Buissonboeuf;93400;2809305.37;44016;2017-07-16;253;13
+252;Micromania Sainte Catherine-la-Forêt;9, boulevard Agathe Lévy;Le Gall;06388;3903888.78;27884;2021-01-21;217;7
+253;Micromania Collin;avenue de Garcia;BonneauVille;70774;2580204.18;43126;2019-03-16;495;12
+254;Micromania Sainte Margot-les-Bains;54, rue Thierry;Meunier-sur-Mer;15111;1414795.58;14529;2018-12-13;325;17
+255;Micromania Guyotboeuf;56, rue de Pascal;Pineau-sur-Mer;85882;4975700.65;68171;2023-01-20;195;11
+256;Micromania Sainte René-sur-Mer;avenue Hugues Barthelemy;Lacroix;78749;850057.55;82596;2018-05-21;141;10
+257;Micromania Couturier;rue Patricia Lebon;Maillet;51435;2624110.1;58921;2021-08-29;104;6
+258;Micromania Diallo-sur-Mer;chemin Lucas Lebreton;Merle-les-Bains;20221;3100116.99;81520;2024-01-08;473;17
+259;Micromania Royer-sur-Mer;508, avenue de Breton;Dufour;50902;4578843.3;31448;2018-08-24;390;10
+260;Micromania Sainte Laure;rue Ledoux;Lévy;24047;4632934.02;15956;2016-06-25;403;16
+261;Micromania Blot-sur-Launay;739, boulevard Gonzalez;Gomes-la-Forêt;03749;2514505.82;10970;2016-01-07;350;15
+262;Micromania Regnier;70, rue de Chauvin;Perrier;16315;866042.17;43701;2024-06-25;372;13
+263;Micromania Saint Jérôme;93, avenue de Lagarde;Rousseldan;69816;3875720.46;36221;2018-11-15;137;9
+264;Micromania Besnard;30, avenue de Lebreton;Leclercq-les-Bains;68980;860062.67;83417;2019-01-06;237;9
+265;Micromania Sainte Thérèse-les-Bains;83, avenue Thomas Humbert;Saint Théodore-les-Bains;37373;852829.77;42032;2024-10-27;109;7
+266;Micromania Adam-sur-Leduc;5, rue Dos Santos;Lejeune-sur-Mer;76362;3935613.51;92330;2023-09-12;258;6
+267;Micromania Lefort-sur-Parent;4, rue de Boyer;Maurice-sur-Pichon;42350;2042352.25;28515;2020-06-20;323;15
+268;Micromania Ramos;7, rue Mendès;Sainte MargueriteBourg;66143;2646445.07;28319;2016-11-21;195;6
+269;Micromania Pichon-sur-Renault;20, avenue Philippe Menard;Lemonnier;06761;1635419.63;80794;2021-10-14;106;13
+270;Micromania Giraud-les-Bains;753, rue Barbe;Saint Marcel;35652;1121763.77;52323;2019-05-20;390;12
+271;Micromania Perrier-sur-Raynaud;58, avenue de Pages;Sainte Laurentboeuf;38709;3975068.55;80281;2020-06-05;261;11
+272;Micromania Dupré-sur-Peron;307, avenue Clémence Lopes;Boyer;98780;2222283.47;61000;2019-11-02;236;6
+273;Micromania Toussaintdan;937, rue de Pruvost;Paris;86806;4046864.49;87528;2021-02-09;286;19
+274;Micromania Saint Lorraine;689, boulevard de Renard;Saint JulesBourg;57869;3092956.05;64126;2021-10-03;410;10
+275;Micromania Sainte Cécile-sur-Mer;5, chemin Alexandre Payet;Leroynec;21179;3757636.56;69592;2021-02-09;440;12
+276;Micromania Sainte Christiane;838, boulevard Teixeira;CoulonBourg;55772;4684459.51;50648;2018-05-28;482;14
+277;Micromania Poirier-les-Bains;18, boulevard Gérard Joubert;Pottier;82425;4815849.22;89872;2024-12-18;349;8
+278;Micromania Berger;1, rue de Le Gall;Jourdandan;93201;4493040.23;72001;2024-12-14;328;18
+279;Micromania Massondan;805, boulevard Noël;Lejeune-sur-Mahe;59570;529706.34;92630;2018-01-12;128;17
+280;Micromania Pinto;272, rue Denis Didier;Lecomte;44305;3898560.61;24788;2015-04-25;355;13
+281;Micromania Allard;27, rue Margot Coste;Riou;69991;1132424.13;75770;2022-10-03;183;14
+282;Micromania Paul;37, boulevard Leleu;Roche;12002;1728274.34;49371;2016-12-31;374;12
+283;Micromania Sancheznec;2, rue Legrand;Collet;67500;971972.16;90848;2023-09-07;198;5
+284;Micromania Michel;27, rue de Grégoire;Saint AstridBourg;85557;1929060.86;16297;2020-11-22;432;16
+285;Micromania Lefort;91, chemin David Da Silva;Salmon;63128;2591740.46;69853;2023-10-07;463;12
+286;Micromania Sainte Marcel;chemin Labbé;Ollivier;45749;1581300.98;65927;2018-01-15;465;18
+287;Micromania Bernier;15, avenue Aimée Guilbert;Sainte CécileBourg;53893;632982.51;35388;2015-04-19;425;10
+288;Micromania Sainte Bertrand;94, rue Sébastien Martineau;Aubert;47198;825747.58;35524;2018-02-09;332;11
+289;Micromania Bourgeois;4, avenue Goncalves;Didier-les-Bains;04520;3060593.56;80289;2024-05-06;492;18
+290;Micromania Gonzalez-les-Bains;71, rue de Labbé;Allain;45958;4577976.36;18803;2022-11-26;404;15
+291;Micromania Sainte Céline;980, rue Potier;Neveu;52340;3805138.31;16595;2018-05-16;404;11
+292;Micromania Sainte Augustin;9, rue Pinto;CharpentierBourg;80884;912434.05;57409;2016-11-01;215;9
+293;Micromania Gilbert;99, boulevard de Masse;Bousquet-sur-Lemaire;52983;4013907.37;86653;2025-01-12;115;9
+294;Micromania Mallet;3, rue Marie Morvan;Weber;77199;1139089.28;28555;2024-03-17;148;5
+295;Micromania Chevallier;568, avenue de Perret;Mallet;40522;1297073.6;83770;2015-10-06;451;20
+296;Micromania Texier-sur-Benoit;1, rue Gay;Sainte Nicole;78446;2124873.03;32180;2024-11-30;132;10
+297;Micromania Bernard;avenue Royer;Durand;65047;869976.31;13703;2024-09-07;290;18
+298;Micromania Weber-les-Bains;5, avenue Gallet;Saint ThérèseVille;00774;1995337.24;79504;2021-01-29;133;9
+299;Micromania Guyotdan;32, avenue Alice Dupont;Sainte Coletteboeuf;13369;1286601.18;82238;2021-12-28;128;6
+300;Micromania Sainte Susan-les-Bains;47, boulevard Denis;Guyon;66699;1666045.45;48623;2020-11-13;391;13
+301;Micromania Clément;avenue Léger;Ribeiro;06315;3942956.18;62840;2020-09-29;485;7
+302;Micromania Lefèvre;51, boulevard Colas;Paris;26681;2774032.95;73654;2018-07-25;289;8
